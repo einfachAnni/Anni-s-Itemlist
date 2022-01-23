@@ -4,7 +4,7 @@ favicon: assets/img/favicon.png
 description: Das hier ist eine selbst erstellte Itemliste für das Twitch-Toolkit. Schaut euch gern etwas um.
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'einfachAnni.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'einfachAnni'
 
